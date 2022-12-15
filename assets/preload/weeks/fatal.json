@@ -1,0 +1,49 @@
+{
+	"storyName": "Null",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		255,
+		165,
+		0
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"fatality",
+			"fatal",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"megabyte",
+			"fatal",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Code-Duplication",
+			"Code",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "Null"
+}
