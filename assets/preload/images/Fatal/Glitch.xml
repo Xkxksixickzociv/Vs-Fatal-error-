@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Glitch.png">
+<SubTexture name="Glitch stand0000" x="0" y="522" width="7843" height="488" frameX="0" frameY="-1475" frameWidth="7843" frameHeight="2259" />
+<SubTexture name="Glitch stand0001" x="0" y="522" width="7843" height="488" frameX="0" frameY="-1475" frameWidth="7843" frameHeight="2259" />
+<SubTexture name="Glitch stand0002" x="0" y="0" width="7843" height="522" frameX="0" frameY="-1447" frameWidth="7843" frameHeight="2259" />
+<SubTexture name="Glitch stand0003" x="0" y="0" width="7843" height="522" frameX="0" frameY="-1447" frameWidth="7843" frameHeight="2259" />
+<SubTexture name="Glitch stand0004" x="0" y="1010" width="7843" height="416" frameX="0" frameY="-1572" frameWidth="7843" frameHeight="2259" />
+<SubTexture name="Glitch stand0005" x="0" y="1010" width="7843" height="416" frameX="0" frameY="-1572" frameWidth="7843" frameHeight="2259" />
+</TextureAtlas>

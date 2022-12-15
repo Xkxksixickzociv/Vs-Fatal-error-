@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="puppets.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="characters 10000" x="0" y="0" width="2487" height="1099" pivotX="219.3" pivotY="391.9"/>
+	<SubTexture name="characters 10001" x="2487" y="0" width="2487" height="1099"/>
+	<SubTexture name="characters 10002" x="4974" y="0" width="2487" height="1099"/>
+	<SubTexture name="characters 10003" x="0" y="1099" width="2487" height="1099"/>
+	<SubTexture name="characters 10004" x="2487" y="1099" width="2487" height="1099"/>
+	<SubTexture name="characters 10005" x="4974" y="1099" width="2487" height="1099"/>
+	<SubTexture name="characters 10006" x="0" y="2198" width="2487" height="1099"/>
+	<SubTexture name="characters 10007" x="2487" y="2198" width="2487" height="1099"/>
+	<SubTexture name="characters 10008" x="4974" y="2198" width="2487" height="1099"/>
+	<SubTexture name="characters 10009" x="0" y="3297" width="2487" height="1099"/>
+	<SubTexture name="characters 10010" x="2487" y="2198" width="2487" height="1099"/>
+	<SubTexture name="characters 10011" x="4974" y="2198" width="2487" height="1099"/>
+	<SubTexture name="characters 10012" x="0" y="3297" width="2487" height="1099"/>
+	<SubTexture name="characters 10013" x="2487" y="2198" width="2487" height="1099"/>
+	<SubTexture name="characters 10014" x="4974" y="2198" width="2487" height="1099"/>
+	<SubTexture name="characters 10015" x="0" y="3297" width="2487" height="1099"/>
+	<SubTexture name="characters 10016" x="2487" y="2198" width="2487" height="1099"/>
+	<SubTexture name="characters 10017" x="4974" y="2198" width="2487" height="1099"/>
+	<SubTexture name="characters 10018" x="0" y="3297" width="2487" height="1099"/>
+	<SubTexture name="characters 10019" x="2487" y="2198" width="2487" height="1099"/>
+	<SubTexture name="characters 10020" x="4974" y="2198" width="2487" height="1099"/>
+	<SubTexture name="characters 10021" x="0" y="3297" width="2487" height="1099"/>
+	<SubTexture name="characters 10022" x="2487" y="2198" width="2487" height="1099"/>
+	<SubTexture name="characters 10023" x="4974" y="2198" width="2487" height="1099"/>
+</TextureAtlas>
